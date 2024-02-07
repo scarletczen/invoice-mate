@@ -1,5 +1,5 @@
 
-# Invoice Management
+# Invoice Mate
 
 A full stack invoice management application with server actions, component streaming and more. 
 Created using Next 14, PostgreSQL, next-auth.  
